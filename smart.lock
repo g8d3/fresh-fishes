@@ -5,7 +5,15 @@
     "commit": "2d8b41a87cec884489ead138b5dfea31487363f3"
   },
   "dependencies": {
-    "basePackages": {},
-    "packages": {}
+    "basePackages": {
+      "blade": {}
+    },
+    "packages": {
+      "blade": {
+        "git": "https://github.com/bminer/node-blade.git",
+        "tag": "v3.0.0rc5",
+        "commit": "2f71247cc58edc4adf2c2a551da1fc49367268e6"
+      }
+    }
   }
 }
