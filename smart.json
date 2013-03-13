@@ -4,6 +4,9 @@
     "branch": "master"
   },
   "packages": {
-    "blade": {}
+    "blade": {},
+    "jquery-mobile" : {
+      "git": "git@github.com:juanpastas/meteor-jquery-mobile.git"
+    }
   }
 }

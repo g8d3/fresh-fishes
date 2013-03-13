@@ -10,3 +10,5 @@ accounts-ui
 accounts-facebook
 accounts-google
 blade
+coffeescript
+jquery-mobile
