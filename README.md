@@ -5,7 +5,7 @@ Learning Meteor and Blade.
 
 # Setup
 
-You need [Meteorite](http://oortcloud.github.com/meteorite/)
+You need [Meteorite](http://oortcloud.github.com/meteorite/) installed, and then:
 
 ```
 git clone https://github.com/juanpastas/fresh-fishes
