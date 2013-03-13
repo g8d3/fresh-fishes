@@ -8,10 +8,11 @@ Learning Meteor and Blade.
 You need [Meteorite](http://oortcloud.github.com/meteorite/) installed, and then:
 
 ```
+# get code
 git clone https://github.com/juanpastas/fresh-fishes
 cd fresh-fishes
 
-# to run app
+# and run app
 mrt
 ```
 
