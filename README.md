@@ -10,6 +10,8 @@ You need [Meteorite](http://oortcloud.github.com/meteorite/) installed, and then
 ```
 git clone https://github.com/juanpastas/fresh-fishes
 cd fresh-fishes
+
+# to run app
 mrt
 ```
 
